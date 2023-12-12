@@ -1,6 +1,6 @@
 # KFUPMResearchCenterApp
 Research Center Management System - Course Project
-This course project aims to develop a comprehensive system for managing projects, teams, members, and machines at the KFUPM Research Center using JavaFX for the user interface, Scene Builder for designing the UI, and MySQL for the database. The system will allow for efficient allocation of resources, scheduling of machine usage, and visualization of key metrics related to project and team activities.
+This course project aims to develop a comprehensive system for managing projects, teams, members, and machines at the KFUPM Research Center using JavaFX for the user interface, Scene Builder for designing the UI, Figma for prototyping, and MySQL for the database. The system will allow for efficient allocation of resources, scheduling of machine usage, and visualization of key metrics related to project and team activities.
 Getting Started
 To set up and run the Research Center Management System for your course project, follow the steps below:
 Prerequisites
